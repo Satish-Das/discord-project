@@ -55,10 +55,4 @@ This project demonstrates skills in:
 - Add animations and transitions
 - Create mock login functionality
 
-## Screenshots
 
-[Add screenshots of your project here]
-
-## License
-
-MIT
